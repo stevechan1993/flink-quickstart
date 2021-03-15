@@ -1,0 +1,59 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/stevechan/Java/Projects/flink-test/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/0837c42/
+1pmCM74pWWotLhFZhrBGmvu6O2B	.idea/workspace.xml	/^  <component name="ProjectId" id="1pmCM74pWWotLhFZhrBGmvu6O2B" \/>$/;"	i
+BatchJob	src/main/java/org/steve/test/BatchJob.java	/^public class BatchJob {$/;"	c
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+LineSplitter	src/main/java/org/steve/test/SocketTextStreamWordCount.java	/^    public static final class LineSplitter implements FlatMapFunction<String, Tuple2<String, Int/;"	c	class:SocketTextStreamWordCount
+SocketTextStreamWordCount	src/main/java/org/steve/test/SocketTextStreamWordCount.java	/^public class SocketTextStreamWordCount {$/;"	c
+StreamingJob	src/main/java/org/steve/test/StreamingJob.java	/^public class StreamingJob {$/;"	c
+a16027b3-aaed-4637-96ab-6dde8d94d208	.idea/workspace.xml	/^      <changelist id="a16027b3-aaed-4637-96ab-6dde8d94d208" name="Default Changelist" comment=""/;"	i
+a16027b3-aaed-4637-96ab-6dde8d94d208	.idea/workspace.xml	/^    <list default="true" id="a16027b3-aaed-4637-96ab-6dde8d94d208" name="Default Changelist" com/;"	i
+apache.snapshots	dependency-reduced-pom.xml	/^      <id>apache.snapshots<\/id>$/;"	r
+apache.snapshots	pom.xml	/^			<id>apache.snapshots<\/id>$/;"	r
+artifactId	target/maven-archiver/pom.properties	/^artifactId=flink-test$/;"	k
+flatMap	src/main/java/org/steve/test/SocketTextStreamWordCount.java	/^        public void flatMap(String s, Collector<Tuple2<String, Integer>> collector) {$/;"	m	class:SocketTextStreamWordCount.LineSplitter
+flink-test	dependency-reduced-pom.xml	/^  <artifactId>flink-test<\/artifactId>$/;"	a	groupId:org.steve.test
+flink-test	pom.xml	/^	<artifactId>flink-test<\/artifactId>$/;"	a	groupId:org.steve.test
+flink.version	dependency-reduced-pom.xml	/^    <flink.version>1.5.0<\/flink.version>$/;"	p
+flink.version	pom.xml	/^		<flink.version>1.5.0<\/flink.version>$/;"	p
+groupId	target/maven-archiver/pom.properties	/^groupId=org.steve.test$/;"	k
+java.version	dependency-reduced-pom.xml	/^    <java.version>1.8<\/java.version>$/;"	p
+java.version	pom.xml	/^		<java.version>1.8<\/java.version>$/;"	p
+log4j.appender.console	src/main/resources/log4j.properties	/^log4j.appender.console=org.apache.log4j.ConsoleAppender$/;"	k
+log4j.appender.console	target/classes/log4j.properties	/^log4j.appender.console=org.apache.log4j.ConsoleAppender$/;"	k
+log4j.appender.console.layout	src/main/resources/log4j.properties	/^log4j.appender.console.layout=org.apache.log4j.PatternLayout$/;"	k
+log4j.appender.console.layout	target/classes/log4j.properties	/^log4j.appender.console.layout=org.apache.log4j.PatternLayout$/;"	k
+log4j.appender.console.layout.ConversionPattern	src/main/resources/log4j.properties	/^log4j.appender.console.layout.ConversionPattern=%d{HH:mm:ss,SSS} %-5p %-60c %x - %m%n$/;"	k
+log4j.appender.console.layout.ConversionPattern	target/classes/log4j.properties	/^log4j.appender.console.layout.ConversionPattern=%d{HH:mm:ss,SSS} %-5p %-60c %x - %m%n$/;"	k
+log4j.rootLogger	src/main/resources/log4j.properties	/^log4j.rootLogger=INFO, console$/;"	k
+log4j.rootLogger	target/classes/log4j.properties	/^log4j.rootLogger=INFO, console$/;"	k
+main	src/main/java/org/steve/test/BatchJob.java	/^	public static void main(String[] args) throws Exception {$/;"	m	class:BatchJob
+main	src/main/java/org/steve/test/SocketTextStreamWordCount.java	/^    public static void main(String[] args) throws Exception {$/;"	m	class:SocketTextStreamWordCount
+main	src/main/java/org/steve/test/StreamingJob.java	/^	public static void main(String[] args) throws Exception {$/;"	m	class:StreamingJob
+maven.compiler.source	dependency-reduced-pom.xml	/^    <maven.compiler.source>${java.version}<\/maven.compiler.source>$/;"	p
+maven.compiler.source	pom.xml	/^		<maven.compiler.source>${java.version}<\/maven.compiler.source>$/;"	p
+maven.compiler.target	dependency-reduced-pom.xml	/^    <maven.compiler.target>${java.version}<\/maven.compiler.target>$/;"	p
+maven.compiler.target	pom.xml	/^		<maven.compiler.target>${java.version}<\/maven.compiler.target>$/;"	p
+ns9debcd850101	dependency-reduced-pom.xml	/^<project xmlns="http:\/\/maven.apache.org\/POM\/4.0.0" xmlns:xsi="http:\/\/www.w3.org\/2001\/XML/;"	n	uri:http://maven.apache.org/POM/4.0.0
+nsbbf684f00101	pom.xml	/^	xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/maven/;"	n	uri:http://maven.apache.org/POM/4.0.0
+org.steve.test	dependency-reduced-pom.xml	/^  <groupId>org.steve.test<\/groupId>$/;"	g
+org.steve.test	pom.xml	/^	<groupId>org.steve.test<\/groupId>$/;"	g
+org.steve.test	src/main/java/org/steve/test/BatchJob.java	/^package org.steve.test;$/;"	p
+org.steve.test	src/main/java/org/steve/test/SocketTextStreamWordCount.java	/^package org.steve.test;$/;"	p
+org.steve.test	src/main/java/org/steve/test/StreamingJob.java	/^package org.steve.test;$/;"	p
+project.build.sourceEncoding	dependency-reduced-pom.xml	/^    <project.build.sourceEncoding>UTF-8<\/project.build.sourceEncoding>$/;"	p
+project.build.sourceEncoding	pom.xml	/^		<project.build.sourceEncoding>UTF-8<\/project.build.sourceEncoding>$/;"	p
+scala.binary.version	dependency-reduced-pom.xml	/^    <scala.binary.version>2.11<\/scala.binary.version>$/;"	p
+scala.binary.version	pom.xml	/^		<scala.binary.version>2.11<\/scala.binary.version>$/;"	p
+version	target/maven-archiver/pom.properties	/^version=1.0-SNAPSHOT$/;"	k
+xsi	dependency-reduced-pom.xml	/^<project xmlns="http:\/\/maven.apache.org\/POM\/4.0.0" xmlns:xsi="http:\/\/www.w3.org\/2001\/XML/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
+xsi	pom.xml	/^	xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/maven/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
